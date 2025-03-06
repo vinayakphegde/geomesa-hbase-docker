@@ -1,0 +1,4 @@
+list.each do |table|
+  flush table
+end
+
